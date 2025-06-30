@@ -1,3 +1,1 @@
-# Mood-Cuisine
-A model which generates the kitchen design based on the length x breadth x height dimensions we provide
-
+SurSoothe : Structured Understanding and Raga Synthesis for Optimized Ontology-Driven Therapeutic Healing and Engagement
