@@ -49,7 +49,6 @@
 - Yi-34B for instruction following
 - Baichuan-53B for multilingual support  
 - OpenOrca-Platypus2-13B for therapy reasoning
-- Phi-3, Nous Hermes 2, Mixtral integration
 - OpenBioLLM for medical knowledge
 
 **🔒 Research-Grade Pipeline**
