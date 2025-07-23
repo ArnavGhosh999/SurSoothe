@@ -506,7 +506,7 @@ python therapy_mapping.py
 
 ## 📄 License & Usage
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the BSD 2-Clause License - see the [LICENSE](LICENSE) file for details.
 
 **Important Note**: While SurSoothe provides evidence-based music therapy recommendations, it should be used as a complementary tool alongside professional healthcare guidance, not as a replacement for clinical treatment.
 
