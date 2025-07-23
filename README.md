@@ -16,13 +16,7 @@
   </div>
 </p>
 
-<div align="center">
 
-[![Demo](https://img.shields.io/badge/🎮-Live%20Demo-brightgreen?style=for-the-badge)](https://demo-link.com)
-[![Docs](https://img.shields.io/badge/📚-Documentation-blue?style=for-the-badge)](https://docs-link.com)
-[![API](https://img.shields.io/badge/🔌-API%20Reference-orange?style=for-the-badge)](https://api-docs-link.com)
-
-</div>
 
 ## 🌟 System Features
 
@@ -516,19 +510,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Important Note**: While SurSoothe provides evidence-based music therapy recommendations, it should be used as a complementary tool alongside professional healthcare guidance, not as a replacement for clinical treatment.
 
-## 🙏 Acknowledgments
-
-<div align="justify">
-
-- **Audio Processing Communities**: librosa, scipy, and parselmouth development teams
-- **AI/ML Frameworks**: Hugging Face Transformers, PyTorch, and scikit-learn communities  
-- **Biomedical AI**: Developers of BioGPT, BioBERT, and SciBERT models
-- **Music Therapy Research**: International Association for Music & Medicine
-- **Indian Classical Music**: Traditional raga classification and therapeutic knowledge
-- **Clinical Partners**: Healthcare professionals providing validation and feedback
-- **Open Source Community**: Contributors and researchers advancing music therapy technology
-
-</div>
 
 <div align="center">
 
